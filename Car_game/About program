@@ -1,0 +1,5 @@
+This code is about a car game
+basically what you can do is drive certain cars or add your own, it remembers their mileage,brand and name, they are saved in the text file
+
+With this project I learned how to use classes(public and private) along with how to use vectors and how I can save to permanent memmory not just ram
+(the text file contains the cars that are already there, when you are done using the app you can save before you leave and your changes will be added)
