@@ -1,0 +1,4 @@
+Gaming router,1500,121,50
+RGB LED lights,150,120,127
+mouse pad,100,19,129
+RTX 4090,10000,129,10
